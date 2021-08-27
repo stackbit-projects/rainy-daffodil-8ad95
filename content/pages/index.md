@@ -22,7 +22,7 @@ sections:
     background_image: /images/1200px-University_of_Waterloo_seal.svg-f60f27ca.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 10
+    background_image_opacity: 30
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
