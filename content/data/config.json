@@ -9,7 +9,7 @@
     "header": {
         "title": "Personal",
         "logo": "/images/logo.svg",
-        "logo_alt": "Malvika",
+        "logo_alt": "Personal Logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
