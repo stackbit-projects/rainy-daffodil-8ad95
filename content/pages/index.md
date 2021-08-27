@@ -5,7 +5,7 @@ sections:
     title: Hello there! My name is Malvika Dusowoth.
     subtitle: >-
       This website was created by me in order to give you a better insight into
-      my life, and to prove to you as to why I am 
+      my life, and to prove to you as to why I should be selected 
     actions:
       - label: Contact Me
         url: /contact
