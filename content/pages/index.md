@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: /images/uowl.png
+    background_image: /images/1200px-University_of_Waterloo_seal.svg-f60f27ca.png
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 10
