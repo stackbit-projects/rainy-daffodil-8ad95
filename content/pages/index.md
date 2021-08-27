@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Hello there! My name is Malvika Dusowoth.
     subtitle: >-
-      This website was created by me in order to give you a better insight into
-      my life, and to prove to you as to why I should be selected into the
+      This website was created by me to give you a better insight into my life
+      and to show you why I am the perfect candidate to be selected into the
       University of Waterloo's Computer Science program.
     actions:
       - label: Contact Me
