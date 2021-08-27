@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       This website was created by me in order to give you a better insight into
       my life, and to prove to you as to why I should be selected into the
-      University of Waterloo's Computer Science 
+      University of Waterloo's Computer Science program.
     actions:
       - label: Contact Me
         url: /contact
