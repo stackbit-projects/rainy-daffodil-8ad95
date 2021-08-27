@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Hello there! My name is Malvika Dusowoth.
-    subtitle: This website was created by me in order to give you a better insig
+    subtitle: >-
+      This website was created by me in order to give you a better insight into
+      my life 
     actions:
       - label: Contact Me
         url: /contact
