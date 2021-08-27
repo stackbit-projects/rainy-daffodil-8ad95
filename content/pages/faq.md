@@ -1,5 +1,5 @@
 ---
-title: Extracurricular Activit
+title: Extracurricular Activities
 sections:
   - type: hero_section
     title: Frequently Asked Questions
