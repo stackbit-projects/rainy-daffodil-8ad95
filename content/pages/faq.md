@@ -2,7 +2,7 @@
 title: Extracurricular Activities
 sections:
   - type: hero_section
-    title: 'Extracurricular Activities & '
+    title: Extracurricular Activities & Volunteering
     subtitle: My answers
     align: center
     padding_top: medium
