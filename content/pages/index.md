@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hello there! My name is Malvika Dusowoth.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: This website was created by me in order to give you a better insig
     actions:
       - label: Contact Me
         url: /contact
