@@ -3,7 +3,6 @@ title: Extracurricular Activities
 sections:
   - type: hero_section
     title: Extracurricular Activities & Volunteering
-    subtitle: My answers
     align: center
     padding_top: medium
     padding_bottom: small
