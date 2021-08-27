@@ -7,10 +7,7 @@ sections:
       This website was created by me to give you a better insight into my life
       and to show you why I am the perfect candidate to be selected into the
       University of Waterloo's Computer Science program.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
