@@ -28,4 +28,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-*"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."  - *Steve Jobs
+"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."  - Steve Jobs
