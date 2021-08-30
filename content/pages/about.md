@@ -30,6 +30,7 @@ layout: page
 ---
 "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."  - Steve Jobs
 
-I go on my phone to check the time while the bright sun pokes through the curtains. I get up and pull out my laptop to find a quick and easy breakfast recipe. I receive a notification informing me that the clothes that I ordered with just a click of a button just arrived at my door. 
+I go on my phone to check the time while the bright sun pokes through the curtains. I get up and pull out my laptop to find a quick and easy breakfast recipe. I receive a notification informing me that the clothes that I ordered with just a click of a button have arrived at my door.
 
-All of these activities that form part of my daily routine made me realize how life without technology is pointless in today's dynamic world. Whether we like it or not, technology is something that is inevitable since it surrounds us everywhere we go. However, it doesn't just stop there. As time goes by, technology will advance further, and it will make our lives easier, faster, and better. The only way to learn more and contribute to this rapidly changing field is by studying it.  
+All of these activities that form part of my daily routine made me realize how life without technology is pointless in today's dynamic world. Whether we like it or not, technology is something that is inevitable since it surrounds us everywhere we go. However, it doesn't just stop there. As time goes by, technology will advance further, and it will make our lives easier, faster, and better. The only way to learn more and contribute to this rapidly changing field is by studying it. 
+
