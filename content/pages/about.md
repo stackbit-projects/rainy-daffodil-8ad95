@@ -1,5 +1,5 @@
 ---
-title: Everything about me
+title: Who am I?
 seo:
   title: About
   description: This is the about page
