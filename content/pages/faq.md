@@ -35,7 +35,10 @@ sections:
           offerings, your target audience and your level of technical writing
           needed.
 
-              ![](/images/download%20\(2\).jpeg)
+
+          ```
+
+          ```
       - title: Dancing
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
