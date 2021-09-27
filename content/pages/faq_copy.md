@@ -2,7 +2,7 @@
 title: Volunteering
 sections:
   - type: hero_section
-    title: Extracurricular Activities
+    title: Volunteering
     align: center
     padding_top: medium
     padding_bottom: small
