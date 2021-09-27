@@ -34,6 +34,7 @@ sections:
           of our initial onboarding is an in-depth understanding of your
           offerings, your target audience and your level of technical writing
           needed
+        image: /images/tecnova-2077a8e9.png
       - title: Dancing
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
