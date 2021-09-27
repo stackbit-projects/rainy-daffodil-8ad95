@@ -28,7 +28,7 @@ sections:
           on a retainer basis, an hour bank, or a per-project basis. Once I
           understand your needs I will create a tailored proposal with several
           options to choose from.
-      - title: University of Waterloo's Technova
+      - title: University of Waterloo's Technova Hackathon
         content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
