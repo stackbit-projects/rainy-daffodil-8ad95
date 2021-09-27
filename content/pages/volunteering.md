@@ -130,7 +130,7 @@ sections:
     background_image_opacity: 12
 seo:
   title: Frequently Asked Questions
-  description: This is the faq page
+  description: This is the volunteering page
   extra:
     - name: 'og:type'
       value: website
