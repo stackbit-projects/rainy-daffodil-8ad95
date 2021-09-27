@@ -9,7 +9,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Horseback Riding
+      - title: Carnival Floater
         content: >-
           It's important to me to fully understand your business and what you're
           trying to achieve. I will start with an interview and follow up with a
