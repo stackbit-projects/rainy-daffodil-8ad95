@@ -139,7 +139,7 @@ seo:
       value: Frequently Asked Questions
       keyName: property
     - name: 'og:description'
-      value: This is the faq page
+      value: This is the 2faq page
       keyName: property
     - name: 'twitter:card'
       value: summary
