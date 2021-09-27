@@ -146,6 +146,6 @@ seo:
     - name: 'twitter:title'
       value: Frequently Asked Questions
     - name: 'twitter:description'
-      value: This is the faq page
+      value: This is the volunteering page
 layout: advanced
 ---
