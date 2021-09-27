@@ -34,7 +34,7 @@ sections:
           of our initial onboarding is an in-depth understanding of your
           offerings, your target audience and your level of technical writing
           needed.
-      - title: How fast can we get started?
+      - title: 'University of '
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
