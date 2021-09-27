@@ -1,5 +1,5 @@
 ---
-title: Extracurricular Activities
+title: Volunteering
 sections:
   - type: hero_section
     title: Extracurricular Activities
