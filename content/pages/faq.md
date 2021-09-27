@@ -16,8 +16,7 @@ sections:
           tailored questionnaire. Then, I produce writing samples to make sure
           we're on the right track. Once we work together, we can make as many
           revisions as you'd like so that your content is perfect.
-      - title: Can you manage our social media?
-        content: >-
+      - content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
           includes both posting relevant and interesting content, and replying
