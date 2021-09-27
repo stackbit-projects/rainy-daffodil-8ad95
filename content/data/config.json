@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Academics",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
@@ -35,6 +30,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "label": "Volunteering"
+            },
+            {
+                "label": "Academics",
+                "url": "/contact",
+                "style": "link"
             }
         ],
         "has_secondary_nav": false
