@@ -33,12 +33,7 @@ sections:
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
           offerings, your target audience and your level of technical writing
-          needed.
-
-
-          ```
-
-          ```
+          needed
       - title: Dancing
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
