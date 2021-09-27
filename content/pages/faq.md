@@ -29,11 +29,13 @@ sections:
           understand your needs I will create a tailored proposal with several
           options to choose from.
       - title: University of Waterloo's Technova Hackathon
-        content: >-
+        content: >
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
           offerings, your target audience and your level of technical writing
           needed.
+
+              ![](/images/download%20\(2\).jpeg)
       - title: Dancing
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
