@@ -174,7 +174,7 @@ sections:
         image_has_padding: false
         title: Torch Club
       - title_align: left
-        content: >
+        content: >+
           (November 2019 - December 2019)
 
 
@@ -189,7 +189,8 @@ sections:
           how entertaining it can be.
 
 
-          ![](/images/Screenshot%202021-10-22%2016.38.02-1d345a20.png)
+          ![](/images/Screenshot%202021-10-22%2016.38.02-13055a4a.png)
+
         content_align: left
         actions: []
         actions_align: left
