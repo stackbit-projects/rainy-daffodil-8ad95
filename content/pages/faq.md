@@ -118,8 +118,7 @@ sections:
 
 
           ![](/images/IMG\_0790.JPG)
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >
           (September 2018 - January 2020)
 
