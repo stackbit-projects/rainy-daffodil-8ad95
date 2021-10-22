@@ -22,7 +22,7 @@ sections:
           includes both posting relevant and interesting content, and replying
           to questions and comments from your audience.
         title: Badminton
-      - title: Swimming
+      - title: Henna Classes
         content: >-
           Depending on the scope and timeline of your content needs, we can work
           on a retainer basis, an hour bank, or a per-project basis. Once I
