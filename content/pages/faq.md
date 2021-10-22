@@ -58,6 +58,21 @@ sections:
         title: Badminton
       - title: Harvard's 1st Year CS50 Course
         image_width: twenty-five
+        content: >
+          (October 2021 - present)
+
+
+
+
+          After having taken Computer Science courses in both Grade 10 and Grade
+          11, I decided that I wanted to challenge myself and take my CS skills
+          to the next level. So, I went ahead and enrolled myself in a
+          first-year Computer Science course that is offered by Harvard
+          University. This course runs for 12 weeks and it has helped me greatly
+          expand my knowledge about programming. Although it has been tough to
+          do this course while also doing in my Grade 12 courses, I have been
+          managing my time efficiently and I am proud to say that I will be
+          receiving a certificate in the course around the end of December. 
       - title: Swimming
         content: >
           (January 2017 - January 2021)
