@@ -36,6 +36,9 @@ sections:
           watching my sister play, my curiosity in badminton peaked, and
           eventually, when I was old enough, my mother enrolled me as well in
           the KW-Badminton Club.
+
+
+          ![](/images/IMG\_3580.JPG)
         title: Badminton
       - title: Henna Classes
         content: >-
