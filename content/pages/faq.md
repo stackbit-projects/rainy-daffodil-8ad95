@@ -162,7 +162,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Pascal Math Contest
-      - title: lorem-ipsum
+      - title: Dance
         subtitle: lorem-ipsum
         title_align: left
         content: >-
