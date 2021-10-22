@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Henna Club
-        content: >
+        content: >+
           (August 2021 - present)
 
 
@@ -25,9 +25,8 @@ sections:
           share it with others around me.
 
 
+          ![](/images/IMG\_0791-9a2161fa.jpg)
 
-
-          ![](/images/IMG\_0791-26208422.jpg)
       - title: Horseback Riding
         content: >
           (January 2021 - present)
