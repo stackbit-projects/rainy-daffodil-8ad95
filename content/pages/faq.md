@@ -18,10 +18,10 @@ sections:
           a bit of free time on my hands, and I figured there was no better way
           to spend it than by trying new things. One day, while browsing online,
           I came across a stable that offered horseback riding lessons to
-          individuals of all ages. I had never been on a horse before and it was
-          a completely new experience for me. I decided to give it a shot, and I
-          instantly loved it. Currently, I go riding once every week for about
-          30-40 minutes.
+          individuals of all ages. I had never been on a horse before, and it
+          was a completely new experience for me. I decided to give it a shot,
+          and I instantly loved it. Currently, I go riding once every week for
+          about 30-40 minutes.
 
 
           ![](/images/File\_000-3fb372ef.png)
