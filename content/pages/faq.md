@@ -22,11 +22,17 @@ sections:
 
 
           ![](/images/File\_000-3fb372ef.png)
-      - content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+      - content: >
+          (September 2018 - present)
+
+
+          I started badminton when I was in Grade 9. My curiosity in the sport
+          started with me accompanying my elder sister to practice. Every
+          Saturday, I would watch her play for 2 hours while my mother would go
+          on to finish her weekly grocery shopping. After a couple of weeks of
+          watching my sister play, my curiosity in badminton peaked, and
+          eventually, when I was old enough, my mother enrolled me as well in
+          KW-Badminton Club. 
         title: Badminton
       - title: Henna Classes
         content: >-
