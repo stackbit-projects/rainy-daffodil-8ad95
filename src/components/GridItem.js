@@ -106,7 +106,7 @@ export default class GridItem extends React.Component {
                                 className={classNames({
                                     'cell-12': isHorizontal,
                                     'cell-md-9': isHorizontal && imageWidth === 'twenty-five',
-                                    'cell-md-8': isHorizontal && imageWidth === 'thirty-three',
+                                    'cell-md-8': isHorizontal && imageWidth === 'thirty-two',
                                     'cell-md-7': isHorizontal && imageWidth === 'fourty',
                                     'cell-md-6': isHorizontal && imageWidth === 'fifty',
                                     'cell-md-5': isHorizontal && imageWidth === 'sixty',
