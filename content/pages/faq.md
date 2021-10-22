@@ -70,7 +70,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Henna Classes
-      - title: lorem-ipsum
+      - title: Torch Club
         subtitle: lorem-ipsum
         title_align: left
         content: >-
