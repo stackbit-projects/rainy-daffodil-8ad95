@@ -79,7 +79,7 @@ sections:
 
           ![](/images/cs50.jpg)
       - title: Swimming
-        content: >
+        content: >+
           (January 2017 - January 2021)
 
 
@@ -94,9 +94,8 @@ sections:
           water.
 
 
+          ![](/images/IMG\_0789-b394a212.jpg)
 
-
-          ![](/images/IMG\_0789-05bc7ef3.jpg)
       - title: University of Waterloo's Technova Hackathon
         content: >
           (24th August 2021 - 29th August 2021)
