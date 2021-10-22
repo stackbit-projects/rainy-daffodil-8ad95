@@ -14,11 +14,14 @@ sections:
           (January 2021 - present)
 
 
-          Back in January, I decided that I wanted to try out a new sport. While
-          browsing online, I came across a stable that offered horseback riding
-          lessons to individuals of all ages. I decided to give it a try, and I
-          ended up loving it. Currently, I go riding once every week for about
-          30-40 minutes.
+          Back in January, I decided that I wanted to try out a new sport. I had
+          a bit of free time on my hands, and I thought what better way to spend
+          it than by trying out new things. One day, while browsing online, I
+          came across a stable that offered horseback riding lessons to
+          individuals of all ages. I had never been on a horse before, but I
+          always found them so interesting. So, I decided to give riding a try,
+          and I instantly loved it. Currently, I go riding once every week for
+          about 30-40 minutes.
 
 
           ![](/images/File\_000-3fb372ef.png)
