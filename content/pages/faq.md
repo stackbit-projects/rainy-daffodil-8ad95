@@ -9,7 +9,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Henna ClaCsses
+      - title: Henna Club
         content: >
           (August 2021 - present)
 
