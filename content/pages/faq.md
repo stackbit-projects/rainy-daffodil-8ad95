@@ -35,7 +35,7 @@ sections:
           offerings, your target audience and your level of technical writing
           needed
         image_width: twenty-five
-      - title: Dancing
+      - title: University of Waterloo's Technova Hackathon
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
