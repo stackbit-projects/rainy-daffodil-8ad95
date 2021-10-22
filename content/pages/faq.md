@@ -120,7 +120,7 @@ sections:
           ![](/images/IMG\_0790.JPG)
       - title_align: left
         content: >
-          (September 2018 - January 2020)
+          (September 2018 - January 2021)
 
 
           With being fluent in English, French, and Creole, I was able to land a
