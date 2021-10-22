@@ -56,7 +56,7 @@ sections:
           the KW-Badminton Club.
 
 
-          ![](/images/IMG\_3580-2b8043bf.JPG)
+          ![](/images/IMG\_3580-460bd5de.JPG)
 
         title: Badminton
       - title: Harvard's 1st Year CS50 Course
