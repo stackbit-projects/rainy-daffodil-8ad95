@@ -79,7 +79,7 @@ sections:
 
           ![](/images/cs50.jpg)
       - title: Swimming
-        content: >+
+        content: >
           (January 2017 - January 2021)
 
 
@@ -89,13 +89,14 @@ sections:
           classes, levelling up after each term. It was something that I always
           looked forward to since it was very amusing. Unfortunately, as I was
           about to start a lifeguarding class, Covid arrived, and I had to stop
-          swimming entirely. I have not gone back due to how easily Covid can be
-          transmitted, but once everything clears up, I cannot wait to get back
-          in the water.
+          swimming entirely. I have not gone back due to how the rise in Covid
+          cases, but once everything clears up, I cannot wait to get back in the
+          water.
+
+
 
 
           ![](/images/IMG\_0789-05bc7ef3.jpg)
-
       - title: University of Waterloo's Technova Hackathon
         content: >
           (24th August 2021 - 29th August 2021)
