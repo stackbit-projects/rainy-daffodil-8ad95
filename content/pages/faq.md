@@ -203,7 +203,7 @@ sections:
         title: Hacker Gal Club
       - title: Dance
         title_align: left
-        content: >
+        content: >+
           (September 2017 - January 2019)
 
 
@@ -224,8 +224,6 @@ sections:
 
           ![](/images/dance-30bb8a50.jpeg)
 
-
-          ![](/images/dance.jpeg)
         content_align: left
         actions: []
         actions_align: left
