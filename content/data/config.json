@@ -79,17 +79,7 @@
         ],
         "has_tertiary_nav": false,
         "has_social": true,
-        "social_links": [
-            {
-                "label": "Instagram",
-                "url": "https://instagram.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "announcement": {
