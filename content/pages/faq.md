@@ -59,11 +59,22 @@ sections:
       - title: Harvard's 1st Year CS50 Course
         image_width: twenty-five
       - title: Swimming
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+        content: >
+          (January 2017 - January 2021)
+
+
+          Swimming is something that I have always found pleasure doing. It not
+          only provides you will good exercise, but it can also be a stress
+          reliever. Over the years, I have been enrolled in multiple swimming
+          classes, levelling up after each term. It was something that I always
+          looked forward to since it was very amusing. Unfortunately, as I was
+          about to start a lifeguarding class, Covid arrived, and I had to stop
+          swimming entirely. I have not gone back due to how easily Covid can be
+          transmitted, but once everything clears up, I cannot wait to get back
+          in the water.
+
+
+          ![](/images/IMG\_0789.jpg)
       - title: University of Waterloo's Technova Hackathon
         content: >-
           You can choose to provide the design yourself, or I can include a
