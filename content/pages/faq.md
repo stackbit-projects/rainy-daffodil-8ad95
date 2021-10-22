@@ -93,7 +93,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: 'Babysitting '
-      - title: Hacker Gal Club
+      - title: Hacker Ga Club
         subtitle: lorem-ipsum
         title_align: left
         content: >-
