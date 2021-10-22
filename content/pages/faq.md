@@ -28,7 +28,7 @@ sections:
           ![](/images/IMG\_0791-9a2161fa.jpg)
 
       - title: Horseback Riding
-        content: >
+        content: >+
           (January 2021 - present)
 
 
@@ -42,7 +42,8 @@ sections:
           about 30-40 minutes.
 
 
-          ![](/images/File\_000-3fb372ef.png)
+          ![](/images/File\_000-2b8ecbb5.png)
+
       - content: >+
           (September 2018 - present)
 
