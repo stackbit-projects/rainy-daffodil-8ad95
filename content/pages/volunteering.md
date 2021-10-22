@@ -41,8 +41,7 @@ sections:
           intro video call, an interview, a questionnaire and some back and
           forth communication for technical purposes. After that, we can go as
           fast as you need.
-      - title: Harvard 1st year CS50 Course
-        content: >-
+      - content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
           designers with ample experience in web, digital, campaign and
