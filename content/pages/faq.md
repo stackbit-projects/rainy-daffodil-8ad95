@@ -144,17 +144,25 @@ sections:
         image_has_padding: false
         title: 'Babysitting '
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          (September 2019 - March 2020)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Torch Club is a charity fundraising club at Bluevale Collegiate
+          Insitute, where students come up with different ways to raise money
+          for charity. Once Grade 10 rolled around, I decided to finally start
+          getting involved in clubs around the school, and my first victim was
+          Torch Club. While being in this club, I would participate in events
+          that would encourage students to buy certain items, and all of the
+          proceeds would go to charity.   On Halloween, the club even went out
+          to trick-or-treat for canned foods, rather than candy, to donate to
+          the local food drive. Unfortunately, not too long after I joined the
+          club, Covid came around, and schools were closed for a long time.
+          Students had no access to clubs or sports teams, and it was quite
+          disappointing. Nonetheless, within the little time that I spent in the
+          club, I loved every second of it and would get involved in similar
+          clubs like that at the University of Waterloo if I have the chance to
+          attend the institute.
         content_align: left
         actions: []
         actions_align: left
