@@ -82,10 +82,11 @@ export default class GridItem extends React.Component {
                                         'card__media--top': isCard && imagePosition === 'top',
                                         'card__media--bottom': isCard && imagePosition === 'bottom',
                                         'card__media--center': isCard && imagePosition === 'center',
-                                        'card__media--center': isCard && imagePosition === 'center',
+                                        'card__media--center': isCard && imagePosition === 'right',
                                         'mb-3': imagePosition !== 'bottom' && hasText && (!isCard || hasImagePadding),
                                         'mb-md-0': isHorizontal && (!isCard || hasImagePadding),
                                         'ml-md-3': imagePosition === 'right' && hasText && (!isCard || hasImagePadding),
+                                        'mr-md-3': imagePosition === 'left' && hasText && (!isCard || hasImagePadding),
                                         'mt-3': imagePosition === 'bottom' && hasText && (!isCard || hasImagePadding)
                                     })}
                                 >
