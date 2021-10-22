@@ -122,8 +122,8 @@ export default class GridItem extends React.Component {
                                         'pb-sm-4': isCard && image && !hasImagePadding && imagePosition !== 'bottom',
                                         'pt-sm-4': isCard && image && !hasImagePadding && imagePosition === 'bottom',
                                         'py-md-4': isCard && isHorizontal && !hasImagePadding,
-                                        'pr-md-4': isCard && image && !hasImagePadding && imagePosition === 'left',
-                                        'pl-md-3': isCard && image && !hasImagePadding && imagePosition === 'left',
+                                        'pr-md-4': isCard && image && !hasImagePadding && imagePosition === 'center',
+                                        'pl-md-3': isCard && image && !hasImagePadding && imagePosition === 'center',
                                         'pl-md-4': isCard && image && !hasImagePadding && imagePosition === 'right',
                                         'pr-md-3': isCard && image && !hasImagePadding && imagePosition === 'right'
                                     })}
