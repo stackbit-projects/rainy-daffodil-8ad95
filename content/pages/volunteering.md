@@ -21,7 +21,7 @@ sections:
           and any other social media platform you wish to maintain. This
           includes both posting relevant and interesting content, and replying
           to questions and comments from your audience.
-        title: 'Teacher Assitance '
+        title: 'Teacher Assistance '
       - title: Swimming
         content: >-
           Depending on the scope and timeline of your content needs, we can work
