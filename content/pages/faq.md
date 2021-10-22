@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Horseback Riding
-        content: >+
+        content: >
           (January 2021 - present)
 
 
@@ -18,8 +18,10 @@ sections:
           browsing online, I came across a stable that offered horseback riding
           lessons to individuals of all ages. I decided to give it a try, and I
           ended up loving it. Currently, I go riding once every week for about
-          30-40 minutes. 
+          30-40 minutes.
 
+
+          ![](/images/File\_000-3fb372ef.png)
       - content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
