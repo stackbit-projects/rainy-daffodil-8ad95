@@ -9,7 +9,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: '(You)th Web Submissions '
+      - title: (You)th Web Submissions Editor
         content: >-
           It's important to me to fully understand your business and what you're
           trying to achieve. I will start with an interview and follow up with a
