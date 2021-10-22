@@ -200,7 +200,6 @@ sections:
         image_has_padding: false
         title: Hacker Gal Club
       - title: Dance
-        subtitle: lorem-ipsu
         title_align: left
         content: >+
           (September 2017 - January 2019)
