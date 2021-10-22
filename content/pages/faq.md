@@ -9,6 +9,9 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
+      - title: Henna Classes
+        content: |
+          August 2021 - present
       - title: Horseback Riding
         content: >
           (January 2021 - present)
@@ -42,9 +45,6 @@ sections:
 
           ![](/images/IMG\_3580.JPG)
         title: Badminton
-      - title: Henna Classes
-        content: |
-          August 2021 - present
       - title: Harvard's 1st Year CS50 Course
         content: >
           No product or service is too technical to learn and understand. Part
