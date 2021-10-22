@@ -10,12 +10,16 @@ sections:
   - type: grid_section
     grid_items:
       - title: Horseback Riding
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >+
+          (January 2021 - present)
+
+
+          Back in January, I decided that I wanted to try out a new sport. While
+          browsing online, I came across a stable that offered horseback riding
+          lessons to individuals of all ages. I decided to give it a try, and I
+          ended up loving it. Currently, I go riding once every week for about
+          30-40 minutes. 
+
       - content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
