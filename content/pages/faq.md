@@ -35,7 +35,7 @@ sections:
           on to finish her weekly grocery shopping. After a couple of weeks of
           watching my sister play, my curiosity in badminton peaked, and
           eventually, when I was old enough, my mother enrolled me as well in
-          KW-Badminton Club. 
+          the KW-Badminton Club.
         title: Badminton
       - title: Henna Classes
         content: >-
