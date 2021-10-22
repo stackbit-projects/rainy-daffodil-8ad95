@@ -97,6 +97,11 @@ sections:
           ![](/images/IMG\_0789.jpg)
       - title: University of Waterloo's Technova Hackathon
         content: >
+          (24th August 2021 - 29th August 2021)
+
+
+
+
           In the past, I have done both the Pascal and Cayley math contest that
           was hosted by the University of Waterloo. Apart from those, I haven't
           participated in any other activities that the University hosts.
