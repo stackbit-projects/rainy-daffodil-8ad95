@@ -81,7 +81,7 @@ export default class GridItem extends React.Component {
                                         'card__media--fill': isCard && !hasImagePadding,
                                         'card__media--top': isCard && imagePosition === 'top',
                                         'card__media--bottom': isCard && imagePosition === 'bottom',
-                                        'card__media--left': isCard && imagePosition === 'left',
+                                        'card__media--left': isCard && imagePosition === 'center',
                                         'card__media--right': isCard && imagePosition === 'right',
                                         'mb-3': imagePosition !== 'bottom' && hasText && (!isCard || hasImagePadding),
                                         'mb-md-0': isHorizontal && (!isCard || hasImagePadding),
