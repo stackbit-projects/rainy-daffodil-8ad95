@@ -57,11 +57,6 @@ sections:
           ![](/images/IMG\_3580.JPG)
         title: Badminton
       - title: Harvard's 1st Year CS50 Course
-        content: >
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed
         image_width: twenty-five
       - title: Swimming
         content: >-
