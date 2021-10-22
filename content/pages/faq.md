@@ -219,6 +219,9 @@ sections:
           like that. Regardless of how the people were, I know that I won't ever
           forget the joy that I felt while being on the dance floor and the
           stage.
+
+
+          ![](/images/dance-d96c449d.jpg)
         content_align: left
         actions: []
         actions_align: left
