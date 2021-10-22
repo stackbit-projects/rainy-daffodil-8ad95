@@ -9,7 +9,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Henna Classes
+      - title: Henna ClaCsses
         content: >
           (August 2021 - present)
 
