@@ -23,6 +23,9 @@ sections:
           enroll in a Henna club. This club teaches me how to perfect the art of
           Henna, it enables me to learn more about my culture, and I get to
           share it with others around me.
+
+
+          ![](/images/IMG\_0791.jpg)
       - title: Horseback Riding
         content: >
           (January 2021 - present)
