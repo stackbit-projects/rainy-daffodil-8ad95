@@ -174,17 +174,21 @@ sections:
         image_has_padding: false
         title: Torch Club
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          (November 2019 - December 2019)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+          Hacker Gal is a club designed for young females that aims to prepare
+          them for an annual hackathon that takes place across Canada. During
+          the time that I first learned about the club, my interest in Computer
+          Science was gradually becoming deeper and deeper. This club helped
+          strengthen that even more. Every Wednesday, for a month, I would spend
+          my lunch in the Computer room with other fellow students, and we would
+          learn the fundamentals of coding and how we could use that during the
+          Hackathon. This club showed me the creative side of programming and
+          how entertaining it can be. 
 
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
