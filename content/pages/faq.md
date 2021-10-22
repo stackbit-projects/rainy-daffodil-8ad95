@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Henna Club
-        content: >
+        content: >+
           (August 2021 - present)
 
 
@@ -22,13 +22,10 @@ sections:
           myself stray away from my roots and culture. To fix that, I decided to
           enroll in a Henna club. This club teaches me how to perfect the art of
           Henna, it enables me to learn more about my culture, and I get to
-          share it with others around me.
+          share it with others around me. 
 
+                                                                                                        ![](/images/IMG\_0791-6ae37c79.jpg)
 
-          ![](/images/IMG\_0791-6ae37c79.jpg)
-
-
-          ![](/images/IMG\_0791-3a34ab38.jpg)
       - title: Horseback Riding
         content: >
           (January 2021 - present)
