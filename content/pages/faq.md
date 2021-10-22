@@ -120,17 +120,20 @@ sections:
           ![](/images/IMG\_0790.JPG)
       - subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          (September 2018 - January 2020)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          With being fluent in English, French, and Creole, I was able to land a
+          part-time babysitting job at a french-speaking home. I would babysit
+          three kids at a time, once or twice during the school week, for an
+          estimate of 5 hours.  This job taught me how to manage my time well
+          since I would often be doing my school work while also looking after
+          the kids. It taught me how to do multiple tasks at once, and I believe
+          that it helped me learn many skills that will come in clutch in
+          University. The children that I previously babysat no longer need to
+          be looked after, but whenever I am occasionally needed at other
+          places, I still go and take care of little kids.
         content_align: left
         actions: []
         actions_align: left
