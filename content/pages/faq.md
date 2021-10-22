@@ -96,11 +96,22 @@ sections:
 
           ![](/images/IMG\_0789.jpg)
       - title: University of Waterloo's Technova Hackathon
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: >
+          In the past, I have done both the Pascal and Cayley math contest that
+          was hosted by the University of Waterloo. Apart from those, I haven't
+          participated in any other activities that the University hosts.
+          However, this all changed when I came across the University of
+          Waterloo's very first Global Women in Tech+ Hackathon. When I saw the
+          ad about the Hackathon, I immediately sent out my application, and I
+          was ecstatic when I learned that I got accepted. This event was very
+          enjoyable, and it allowed me to network with individuals from all over
+          the world, as well as with representatives from companies such as
+          Amazon, Microsoft, D2L, and many more. The TechNova Hackathon opened
+          my eyes to how fun the University of Waterloo can be and how many
+          opportunities await for me once I am able to attend there.
+
+
+          ![](/images/IMG\_0790.JPG)
       - subtitle: lorem-ipsum
         title_align: left
         content: >-
