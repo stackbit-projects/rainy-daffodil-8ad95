@@ -138,6 +138,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        title: Hacker Gal Club
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
