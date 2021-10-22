@@ -31,7 +31,7 @@ export default class GridItem extends React.Component {
         const imageAlt = _.get(item, 'image_alt', '');
         const imageWidth = _.get(item, 'image_width', 'fifty');
         const imagePosition = _.get(item, 'image_position', 'top');
-        const imageAlignX = _.get(item, 'image_align', 'center ');
+        const imageAlignX = _.get(item, 'image_align', 'center');
         const hasImagePadding = _.get(item, 'image_has_padding');
         const isHorizontal = hasText && image && (imagePosition === 'center' || imagePosition === 'right');
         const isCard = _.get(section, 'enable_cards');
