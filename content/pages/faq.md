@@ -203,11 +203,11 @@ sections:
         title: Hacker Gal Club
       - title: Dance
         title_align: left
-        content: >+
+        content: >
           (September 2017 - January 2019)
 
 
-          Dance was something that was always very important to me. It was a way
+          Dance is something that was always very important to me. It was a way
           for me to relieve my stress, and it helped me express myself in new
           ways. When I was very young, I used to be enrolled in a traditional
           dance class known as Bharatanatyam. I would go to classes every week
@@ -222,8 +222,10 @@ sections:
           stage.
 
 
-          ![](/images/dance.jpeg)
+          ![](/images/dance-30bb8a50.jpeg)
 
+
+          ![](/images/dance.jpeg)
         content_align: left
         actions: []
         actions_align: left
