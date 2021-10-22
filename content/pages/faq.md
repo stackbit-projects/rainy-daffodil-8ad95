@@ -43,11 +43,8 @@ sections:
           ![](/images/IMG\_3580.JPG)
         title: Badminton
       - title: Henna Classes
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+        content: |
+          August 2021 - present
       - title: Harvard's 1st Year CS50 Course
         content: >
           No product or service is too technical to learn and understand. Part
