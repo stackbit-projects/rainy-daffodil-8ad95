@@ -41,7 +41,7 @@ sections:
           intro video call, an interview, a questionnaire and some back and
           forth communication for technical purposes. After that, we can go as
           fast as you need.
-      - title: Cayley Math Contest
+      - title: University of Waterloo's Technova Hackathon
         content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
