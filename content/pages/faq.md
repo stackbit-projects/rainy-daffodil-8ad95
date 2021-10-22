@@ -15,11 +15,11 @@ sections:
 
 
           Back in January, I decided that I wanted to try out a new sport. I had
-          a bit of free time on my hands, and I thought what better way to spend
-          it than by trying out new things. One day, while browsing online, I
-          came across a stable that offered horseback riding lessons to
+          a bit of free time on my hands, and I figured there was no better way
+          to spend it than by trying new things. One day, while browsing online,
+          I came across a stable that offered horseback riding lessons to
           individuals of all ages. I had never been on a horse before and it was
-          something very new to me. So, I decided to give it a try, and I
+          a completely new experience for me. I decided to give it a shot, and I
           instantly loved it. Currently, I go riding once every week for about
           30-40 minutes.
 
