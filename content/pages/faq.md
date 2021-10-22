@@ -19,10 +19,10 @@ sections:
           cultures from around the world. However, while discovering the
           different traditions that many have to offer, it is very easy to lose
           one's own culture.  As I spend more time living in Canada, I can
-          slowly feel myself stray away from my roots and culture. In order to
-          fix that, I decided to enroll in a Henna Class. This class teaches me
-          how to perfect the art of Henna and it enables me to learn more about
-          my culture as well as share it with others.
+          slowly feel myself stray away from my roots and culture. To fix that,
+          I decided to enroll in a Henna Class. This class teaches me how to
+          perfect the art of Henna, it enables me to learn more about my
+          culture, and I get to share it with others around me.
       - title: Horseback Riding
         content: >
           (January 2021 - present)
