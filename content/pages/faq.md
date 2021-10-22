@@ -25,7 +25,7 @@ sections:
           share it with others around me.
 
 
-          ![](/images/IMG\_0791-9a2161fa.jpg)
+          ![](/images/IMG\_0791-dc84125c.jpg)
 
       - title: Horseback Riding
         content: >+
