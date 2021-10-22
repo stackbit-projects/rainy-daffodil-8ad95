@@ -13,7 +13,7 @@ export default class GridItem extends React.Component {
         const item = _.get(this.props, 'item');
         const title = _.get(item, 'title');
         const subtitle = _.get(item, 'subtitle');
-        const titleAlignX = _.get(item, 'title_align', 'left');
+        const titleAlignX = _.get(item, 'title_align', 'center');
         const titleClasses = classNames('item__title', {
             'h3': sectionColumns === 'two',
             'h4': sectionColumns === 'three',
@@ -22,10 +22,10 @@ export default class GridItem extends React.Component {
             'text-right': titleAlignX === 'right'
         });
         const content = _.get(item, 'content');
-        const contentAlignX = _.get(item, 'content_align', 'left');
+        const contentAlignX = _.get(item, 'content_align', 'center');
         const actions = _.get(item, 'actions');
         const actionsWidth = _.get(item, 'actions_width', 'auto');
-        const actionsAlignX = _.get(item, 'actions_align', 'left');
+        const actionsAlignX = _.get(item, 'actions_align', 'center');
         const hasText = title || subtitle || content || !_.isEmpty(actions);
         const image = _.get(item, 'image');
         const imageAlt = _.get(item, 'image_alt', '');
