@@ -69,7 +69,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        title: Henna Classes
+        title: Cayley Contest
       - title: Torch Club
         subtitle: lorem-ipsum
         title_align: left
