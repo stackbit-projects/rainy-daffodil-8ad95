@@ -38,6 +38,8 @@ sections:
           the KW-Badminton Club.
 
 
+
+
           ![](/images/IMG\_3580.JPG)
         title: Badminton
       - title: Henna Classes
