@@ -43,7 +43,7 @@ sections:
 
 
           ![](/images/File\_000-3fb372ef.png)
-      - content: >+
+      - content: >
           (September 2018 - present)
 
 
@@ -56,8 +56,10 @@ sections:
           the KW-Badminton Club.
 
 
-          ![](/images/IMG\_3580-b63c2d59.JPG)
+          ![](/images/IMG\_3580-2b8043bf.JPG)
 
+
+          ![](/images/IMG\_3580-b63c2d59.JPG)
         title: Badminton
       - title: Harvard's 1st Year CS50 Course
         image_width: twenty-five
