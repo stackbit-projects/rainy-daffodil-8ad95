@@ -47,8 +47,7 @@ sections:
           design element to your proposal. I work with several wonderful
           designers with ample experience in web, digital, campaign and
           marketing design.
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
