@@ -202,17 +202,25 @@ sections:
       - title: Dance
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          (September 2017 - January 2019)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+          Dance was something that was always very important to me. It was a way
+          for me to relieve my stress, and it helped me express myself in new
+          ways. When I was very young, I used to be enrolled in a traditional
+          dance class known as Bharatanatyam. I would go to classes every week
+          but, I eventually stopped since my family and I moved to Canada.
+          However, once I was in Grade 8, I got involved in dance again, and
+          this time, I did hip-hop. I was able to find that passion for dance
+          once more, and I would attend my classes every week for 1 hour and a
+          half. Unfortunately, I had to quit in Grade 10 since I was
+          experiencing racism at the studio, and I could no longer be in a place
+          like that. Regardless of how the people were, I know that I won't ever
+          forget the joy that I felt while being on the dance floor and the
+          stage.
 
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
