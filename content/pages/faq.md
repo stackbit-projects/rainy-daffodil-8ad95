@@ -64,7 +64,7 @@ sections:
 
 
           Swimming is something that I have always found pleasure doing. It not
-          only provides you will good exercise, but it can also be a stress
+          only provides you with good exercise, but it can also be a stress
           reliever. Over the years, I have been enrolled in multiple swimming
           classes, levelling up after each term. It was something that I always
           looked forward to since it was very amusing. Unfortunately, as I was
