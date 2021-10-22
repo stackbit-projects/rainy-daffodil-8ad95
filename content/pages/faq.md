@@ -174,9 +174,8 @@ sections:
         image_has_padding: false
         title: Torch Club
       - title_align: left
-        content: >+
+        content: >
           (November 2019 - December 2019)
-
 
 
           Hacker Gal is a club designed for young females that aims to prepare
@@ -187,8 +186,10 @@ sections:
           my lunch in the Computer room with other fellow students, and we would
           learn the fundamentals of coding and how we could use that during the
           Hackathon. This club showed me the creative side of programming and
-          how entertaining it can be. 
+          how entertaining it can be.
 
+
+          ![](/images/Screenshot%202021-10-22%2016.38.02-1d345a20.png)
         content_align: left
         actions: []
         actions_align: left
