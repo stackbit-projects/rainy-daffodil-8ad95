@@ -158,7 +158,7 @@ sections:
           to trick-or-treat for canned foods, rather than candy, to donate to
           the local food drive. Unfortunately, not too long after I joined the
           club, Covid came around, and schools were closed for a long time.
-          Students had no access to clubs or sports teams, and it was quite
+          Students had no access to clubs or sports teams, and it was very
           disappointing. Nonetheless, within the little time that I spent in the
           club, I loved every second of it and would get involved in similar
           clubs like that at the University of Waterloo if I have the chance to
