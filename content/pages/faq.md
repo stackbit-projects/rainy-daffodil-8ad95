@@ -161,7 +161,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        title: Pasc
+        title: Pascal Math Contest
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
