@@ -222,7 +222,7 @@ sections:
           stage.
 
 
-          ![](/images/dance-30bb8a50.jpeg)
+          ![](/images/dance-5ad58f46.jpeg)
 
         content_align: left
         actions: []
