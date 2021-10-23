@@ -72,7 +72,7 @@ sections:
           first-year Computer Science course that is offered by Harvard
           University. This online course runs for 12 weeks, and it has helped me
           greatly expand my knowledge in programming. Although it has been tough
-          to do this course while doing in my Grade 12 courses, I have been
+          to do this course while also doing my Grade 12 courses, I have been
           managing my time efficiently, and I am proud to say that I will be
           receiving a certificate in the course by the end of December.
 
