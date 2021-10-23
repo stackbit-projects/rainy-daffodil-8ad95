@@ -100,20 +100,18 @@ sections:
           (24th August 2021 - 29th August 2021)
 
 
-
-
-          In the past, I have done both the Pascal and Cayley math contest that
-          was hosted by the University of Waterloo. Apart from those, I haven't
-          participated in any other activities that the University hosts.
-          However, this all changed when I came across the University of
-          Waterloo's very first Global Women in Tech+ Hackathon. When I saw the
-          ad about the Hackathon, I immediately sent out my application, and I
-          was ecstatic when I learned that I got accepted. This event was very
-          enjoyable, and it allowed me to network with individuals from all over
-          the world, as well as with representatives from companies such as
-          Amazon, Microsoft, D2L, and many more. The TechNova Hackathon opened
-          my eyes to how fun the University of Waterloo can be and how many
-          opportunities await for me once I am able to attend there.
+          In the past, I have done math contests that were hosted by the
+          University of Waterloo. But, apart from those, I haven't participated
+          in any other activities that the University hosts. However, this all
+          changed when I came across the University of Waterloo's very first
+          Global Women in Tech+ Hackathon. When I saw the ad about the
+          Hackathon, I immediately sent out my application, and I was ecstatic
+          when I learned that I got accepted. This event was very enjoyable, and
+          it allowed me to network with individuals from all over the world, as
+          well as with representatives from companies such as Amazon, Microsoft,
+          D2L, and many more. The TechNova Hackathon opened my eyes to how fun
+          the University of Waterloo can be and how many opportunities await for
+          me once I am able to attend there.
 
 
           ![](/images/IMG\_0790.JPG)
