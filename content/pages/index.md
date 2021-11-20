@@ -50,13 +50,10 @@ sections:
           Email Address: Ilana.Arnold@kpl.org
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: |
+          ***Christina Harnack **(teacher),*
 
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          *Email Address: christina_harnack@wrdsb.ca*
         image_position: left
         image_width: twenty-five
       - content: >-
