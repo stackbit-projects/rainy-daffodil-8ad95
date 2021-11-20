@@ -34,12 +34,12 @@ sections:
   - type: grid_section
     title: References
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: |
+          **Kathy Duncan **(*volunteering*),
 
+          Phone Number: 519-502-5252
 
-          **Hanson Deck,** *App Developer, Studio*
+          Email Address: kateyduncan@gmail.com
         image_position: left
         image_width: twenty-five
       - content: >-
