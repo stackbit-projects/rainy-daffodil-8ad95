@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for contacting me. I will get back in touch with you soon. Have a great day!
+      Thank you for taking the time to view this website! I hope that you were
+      able to learn more about me and
     actions:
       - label: Back to homepage
         url: /
