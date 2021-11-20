@@ -26,13 +26,7 @@ sections:
     subtitle: What I do
     features:
       - subtitle: 'Website, blog, social media and more.'
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
