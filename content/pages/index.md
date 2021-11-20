@@ -43,7 +43,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          **Ilana Arnold **(*volunteering*),
+          **Ilana Arnold** (*volunteering*),
 
           Phone Number: 519-743-0271
 
