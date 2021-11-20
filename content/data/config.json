@@ -63,7 +63,7 @@
         "secondary_nav_links": [
             {
                 "label": "Volunteering",
-                "url": "/terms-conditions",
+                "url": "/volunteering",
                 "style": "link"
             },
             {
