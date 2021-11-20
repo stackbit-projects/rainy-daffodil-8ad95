@@ -70,7 +70,7 @@
                 "label": "Home page",
                 "url": "/",
                 "style": "link",
-                "icon_position": "right"
+                "icon_position": "left"
             },
             {
                 "label": "Thank you",
