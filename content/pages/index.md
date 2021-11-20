@@ -57,7 +57,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          *Brittany Parkes (teacher),*
+          ***Brittany Parkes** (teacher),*
 
           *Email Address: brittany_parkes@wrdsb.ca*
         image_position: left
