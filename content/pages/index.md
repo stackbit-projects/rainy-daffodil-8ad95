@@ -35,7 +35,7 @@ sections:
     title: References
     grid_items:
       - content: |
-          **Kathy Duncan **(*volunteering*),
+          **Kathy Duncan** (*volunteering*),
 
           Phone Number: 519-502-5252
 
