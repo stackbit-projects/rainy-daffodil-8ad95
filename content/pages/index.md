@@ -51,7 +51,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          ***Christina Harnack **(teacher),*
+          **Christina Harnack** *(teacher),*
 
           *Email Address: christina_harnack@wrdsb.ca*
         image_position: left
