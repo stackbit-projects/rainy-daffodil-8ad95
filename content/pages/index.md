@@ -43,23 +43,6 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Online Store Management
-        subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
-        actions:
-          - label: Learn More
-            url: /about
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/feature-2.svg
-        image_alt: Feature 2 illustration
-        media_position: right
-        media_width: sixty
     feature_padding_vert: large
     align: center
     background_color: none
