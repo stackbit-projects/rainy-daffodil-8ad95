@@ -42,12 +42,10 @@ sections:
           Email Address: kateyduncan@gmail.com
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: |
+          ***Christina Harnack **(teacher),*
 
-
-          **Miles Tone,** *CEO, Studio*
+          *Email Address: christina_harnack@wrdsb.ca*
         image_position: left
         image_width: twenty-five
       - content: >-
