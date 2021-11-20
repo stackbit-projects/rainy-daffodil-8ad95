@@ -27,10 +27,6 @@ sections:
     subtitle: What I do
     features:
       - subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
         actions:
           - label: See Writing Samples
             url: /faq
