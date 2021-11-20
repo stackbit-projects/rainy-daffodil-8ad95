@@ -69,7 +69,8 @@
             {
                 "label": "Home page",
                 "url": "/",
-                "style": "link"
+                "style": "link",
+                "icon_position": "right"
             },
             {
                 "label": "Thank you",
