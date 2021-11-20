@@ -23,7 +23,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 30
   - type: features_section
-    subtitle: What I do
     features:
       - actions: []
         image_alt: Feature 1 illustration
