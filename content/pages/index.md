@@ -22,15 +22,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 30
-  - type: features_section
-    features:
-      - actions: []
-        image_alt: Feature 1 illustration
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    background_color: none
   - type: grid_section
     title: References
     grid_items:
