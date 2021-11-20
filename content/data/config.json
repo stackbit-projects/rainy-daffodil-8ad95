@@ -73,7 +73,7 @@
             },
             {
                 "label": "Thank you",
-                "url": "#",
+                "url": "/thank-you",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
