@@ -68,7 +68,7 @@
             },
             {
                 "label": "Home page",
-                "url": "/home",
+                "url": "/Home",
                 "style": "link"
             }
         ],
