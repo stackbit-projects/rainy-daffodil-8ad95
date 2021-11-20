@@ -23,7 +23,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 30
   - type: features_section
-    title: My services
     subtitle: What I do
     features:
       - subtitle: 'Website, blog, social media and more.'
