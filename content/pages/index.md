@@ -40,7 +40,6 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
       - content: >-
