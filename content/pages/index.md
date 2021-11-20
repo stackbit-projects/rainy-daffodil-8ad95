@@ -57,11 +57,9 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          **Ilana Arnold** (*volunteering*),
+          **Brittany Parkes** (*teacher*),
 
-          Phone Number: 519-743-0271
-
-          Email Address: Ilana.Arnold@kpl.org
+          Email Address: brittany_parkes@wrdsb.ca
         image_position: left
         image_width: twenty-five
     grid_cols: two
