@@ -25,8 +25,7 @@ sections:
   - type: features_section
     subtitle: What I do
     features:
-      - subtitle: 'Website, blog, social media and more.'
-        actions: []
+      - actions: []
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
