@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Hello there! My name is Malvika Dusowoth.
     subtitle: >-
-      This website was created by me to give you a better insight into my life
-      and to show you why I am the perfect candidate to be selected into the
-      University of Waterloo's Computer Science program.
+      I am a current Grade 12 student at Bluevale Collegiate Institute and I
+      will be pursing post-secondary education in the Fall of 2022. This website
+      was created by me to give you a better insight into my life and to show
+      you why I am the perfect candidate to be selected into the University of
+      Waterloo's Computer Science program.
     actions: []
     image: images/hero.png
     image_alt: A smiling woman
