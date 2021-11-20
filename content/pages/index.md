@@ -57,7 +57,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          *ncdkjncsd*
+          **Ilana Arnold** (*volunteering*),
+
+          Phone Number: 519-743-0271
+
+          Email Address: Ilana.Arnold@kpl.org
         image_position: left
         image_width: twenty-five
     grid_cols: two
