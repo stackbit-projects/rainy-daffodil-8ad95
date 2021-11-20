@@ -68,7 +68,7 @@ sections:
           documentation, pamphlets, manuals and technical documents.
         actions:
           - label: See Past Work
-            url: /faq
+            url: /fa
             style: primary
             has_icon: true
             icon: arrow-right
